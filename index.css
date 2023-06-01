@@ -93,11 +93,6 @@ aside{
 aside :hover {
     color:rgb(255, 60, 0); font-size: 50px;
 }
- {
-    display: flex;
-    flex-direction: column;
-    border: 2px solid rgb(255, 255, 255);
-}
 footer{
     width: 100%;
     height: 40px;
